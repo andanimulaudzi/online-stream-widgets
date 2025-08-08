@@ -1,0 +1,6 @@
+@StreamWidgetsAPI_HostAddress = http://localhost:5003
+
+GET {{StreamWidgetsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
