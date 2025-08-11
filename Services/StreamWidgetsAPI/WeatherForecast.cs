@@ -1,3 +1,5 @@
+using System;
+
 namespace StreamWidgetsAPI
 {
     public class WeatherForecast
