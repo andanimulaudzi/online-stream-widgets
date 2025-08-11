@@ -1,0 +1,13 @@
+<Project>
+	<PropertyGroup>
+		<!-- Enable central package version management -->
+		<ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally> <!-- Important entry to allow centralised version of packages-->
+		<RestoreEnableCentralPackageVersions>true</RestoreEnableCentralPackageVersions>
+
+		<!-- Shared Target Framework -->
+		<TargetFramework>net8.0</TargetFramework>
+
+		<!-- Optional: latest C# language version -->
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+</Project>
